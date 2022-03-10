@@ -1,0 +1,15 @@
+{
+  "name": "ham-noroz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "deploy": "gh-pages -d ./"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
